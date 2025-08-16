@@ -56,7 +56,7 @@ Quiz-App/
 ## 📚 Related Challenge
 
 This is part of my [#30DaysOfJavaScript](https://twitter.com/search?q=%2330DaysOfJavaScript) series.  
-Follow along 👉 [@QasimRokeeb](https://twitter.com/QasimRokeeb)
+Follow along 👉 [@QasimRokeeb](https://x.com/qasimrokeeb)
 
 ## 📜 License
 
